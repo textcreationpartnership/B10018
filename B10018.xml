@@ -1,0 +1,509 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse, or, Paralel, opposing the prophane, carnall professor, and true beleiver, one to the other.</title>
+            <author>Shaw, Samuel, 1635-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10018</idno>
+            <idno type="STC">Wing S3039A</idno>
+            <idno type="STC">ESTC R224261</idno>
+            <idno type="EEBO-CITATION">69648933</idno>
+            <idno type="OCLC">ocm 69648933</idno>
+            <idno type="VID">185084</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185084)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse, or, Paralel, opposing the prophane, carnall professor, and true beleiver, one to the other.</title>
+                  <author>Shaw, Samuel, 1635-1696.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185084:1"/>
+            <head>A LOOKING-GLASSE, OR, PARALEL, OPPOSING The <hi>PROPHANE,</hi> Carnall <hi>PROFESSOR,</hi> and true <hi>BELEIVER,</hi> one to the other.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Prophane,</cell>
+                     <cell role="label">Profeſſors,</cell>
+                     <cell role="label">Beleivers,</cell>
+                  </row>
+                  <row>
+                     <cell>1. ARe many to Profeſſors,</cell>
+                     <cell>To Beleivers,</cell>
+                     <cell>The feweſt of all,</cell>
+                  </row>
+                  <row>
+                     <cell>2. Reſt on forms at beſt,</cell>
+                     <cell>Are but Formaliſts,</cell>
+                     <cell>Reſt not on formalities,</cell>
+                  </row>
+                  <row>
+                     <cell>3. Hate profeſſion,</cell>
+                     <cell>Profeſe only,</cell>
+                     <cell>Profeſs and do,</cell>
+                  </row>
+                  <row>
+                     <cell>4. Are ignorant of the Scri<g ref="char:EOLhyphen"/>ptures,</cell>
+                     <cell>Of the truth of the Scrip<g ref="char:EOLhyphen"/>tures,</cell>
+                     <cell>Are acquainted with both,</cell>
+                  </row>
+                  <row>
+                     <cell>5. Will learn nothing,</cell>
+                     <cell>Are ever learning,</cell>
+                     <cell>Increaſe in knowledge,</cell>
+                  </row>
+                  <row>
+                     <cell>6. Tread Chriſts blood under foot.</cell>
+                     <cell>Know not its worth,</cell>
+                     <cell>Acknowledge its ex<g ref="char:EOLhyphen"/>cellency,</cell>
+                  </row>
+                  <row>
+                     <cell>7. Are led about by Satan,</cell>
+                     <cell>By their own luſts,</cell>
+                     <cell>Only by the Spirit,</cell>
+                  </row>
+                  <row>
+                     <cell>8. Are weary of good duties,</cell>
+                     <cell>Grow weaker in them,</cell>
+                     <cell>Renew their ſtrength,</cell>
+                  </row>
+                  <row>
+                     <cell>9. Grow daily more vile,</cell>
+                     <cell>Wax worſe, and worſe,</cell>
+                     <cell>Are beſt at laſt,</cell>
+                  </row>
+                  <row>
+                     <cell>10. Say they beleive, yet be<g ref="char:EOLhyphen"/>leive not.</cell>
+                     <cell>Say they deſire to be<g ref="char:EOLhyphen"/>leive,</cell>
+                     <cell>Beleive, yet deſire more faith,</cell>
+                  </row>
+                  <row>
+                     <cell>11. Uſe no means but by con<g ref="char:EOLhyphen"/>ſtraint,</cell>
+                     <cell>Uſe means and reſt there,</cell>
+                     <cell>Uſe means, yet reſt on none,</cell>
+                  </row>
+                  <row>
+                     <cell>12. Think they may uſe too much means,</cell>
+                     <cell>Limit themſelves,</cell>
+                     <cell>Uſe means moſt of all,</cell>
+                  </row>
+                  <row>
+                     <cell>13. Think they may be too holy.</cell>
+                     <cell>Are never truly holy,</cell>
+                     <cell>Have perfect holineſs in Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>14. Cannot endure to be que<g ref="char:EOLhyphen"/>ſtioned about Religion,</cell>
+                     <cell>Are full of queſtions,</cell>
+                     <cell>Deſire to be throughly tryed,</cell>
+                  </row>
+                  <row>
+                     <cell>15. Change Religion with the times,</cell>
+                     <cell>Are eaſily changed,</cell>
+                     <cell>Not by death or tor<g ref="char:EOLhyphen"/>ture,</cell>
+                  </row>
+                  <row>
+                     <cell>16. Will not ſuffer for Reli<g ref="char:EOLhyphen"/>gion,</cell>
+                     <cell>Not much,</cell>
+                     <cell>Suffer joyfully,</cell>
+                  </row>
+                  <row>
+                     <cell>17. Say they are more then they ſeem,</cell>
+                     <cell>Seem more then they are,</cell>
+                     <cell>Are more then they ſeem,</cell>
+                  </row>
+                  <row>
+                     <cell>18. Hate all ſhew of Religion,</cell>
+                     <cell>All power,</cell>
+                     <cell>Have both,</cell>
+                  </row>
+                  <row>
+                     <cell>19. Are Key-cold,</cell>
+                     <cell>Luke-warm,</cell>
+                     <cell>Truly hot,</cell>
+                  </row>
+                  <row>
+                     <cell>20. Are devout, the Sacrament neer,</cell>
+                     <cell>The Sacrament day.</cell>
+                     <cell>Truly devout alwaies,</cell>
+                  </row>
+                  <row>
+                     <cell>21. Are glad when the Sab<g ref="char:EOLhyphen"/>bath's over,</cell>
+                     <cell>When it comes they ſay,</cell>
+                     <cell>Rejoyce moſt in that day,</cell>
+                  </row>
+                  <row>
+                     <cell>22. Care not for duties,</cell>
+                     <cell>Know not how to do them,</cell>
+                     <cell>Look for help from Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>23. Say they are Sinners, but think not ſo,</cell>
+                     <cell>Think they are Sinners, but not ſin it ſelf,</cell>
+                     <cell>Know that they are nothing elſe but ſin,</cell>
+                  </row>
+                  <row>
+                     <cell>24. Talk of Chriſt occaſionaly,</cell>
+                     <cell>Speak of him purpoſely,</cell>
+                     <cell>Delight only in him,</cell>
+                  </row>
+                  <row>
+                     <cell>25. Call for Goſpel, Goſpel,</cell>
+                     <cell>For Law; Law,</cell>
+                     <cell>For both,</cell>
+                  </row>
+                  <row>
+                     <cell>26. Cry down terrible preach<g ref="char:EOLhyphen"/>ing,</cell>
+                     <cell>Comfortable preaching,</cell>
+                     <cell>Take pleaſure in both,</cell>
+                  </row>
+                  <row>
+                     <cell>27. Are not humbled by the Law,</cell>
+                     <cell>Not comforted by the Goſpel,</cell>
+                     <cell>Are by both,</cell>
+                  </row>
+                  <row>
+                     <cell>28. Account the Law rayling,</cell>
+                     <cell>The Goſpel Daubing,</cell>
+                     <cell>Know the uſe of both,</cell>
+                  </row>
+                  <row>
+                     <cell>29. Abuſe the Goſpel to looſ<g ref="char:EOLhyphen"/>neſs,</cell>
+                     <cell>The Law to deſpair,</cell>
+                     <cell>Uſe both aright,</cell>
+                  </row>
+                  <row>
+                     <cell>30. Place Religion in good meaning,</cell>
+                     <cell>In good doing,</cell>
+                     <cell>In faith in Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>31. Are ſtrangers to all Righ<g ref="char:EOLhyphen"/>teouſneſs,</cell>
+                     <cell>To Evangelicall Righte<g ref="char:EOLhyphen"/>ouſneſs,</cell>
+                     <cell>Know Chriſts Righte<g ref="char:EOLhyphen"/>ouſneſs,</cell>
+                  </row>
+                  <row>
+                     <cell>32. Put all on Chriſt, and do nothing,</cell>
+                     <cell>Do all and leave Chriſt nothing,</cell>
+                     <cell>Do moſt, yet find ful<g ref="char:EOLhyphen"/>neſs in Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>33. Zealous at Common-prayer.</cell>
+                     <cell>At Sermons or Faſts,</cell>
+                     <cell>Alwaies,</cell>
+                  </row>
+                  <row>
+                     <cell>34. Talk little of Religion.</cell>
+                     <cell>Will talk much,</cell>
+                     <cell>Know how to be ſilent,</cell>
+                  </row>
+                  <row>
+                     <cell>35. Know no aſſurance of Sal<g ref="char:EOLhyphen"/>vation,</cell>
+                     <cell>Are never aſſured,</cell>
+                     <cell>Strive for, and may be infallibly certain,</cell>
+                  </row>
+                  <row>
+                     <cell>36. Brag of any good they do,</cell>
+                     <cell>Are boaſters but craftily,</cell>
+                     <cell>Deny themſelves.</cell>
+                  </row>
+                  <row>
+                     <cell>37. Poſt off Repentance till laſt.</cell>
+                     <cell>Are repenting, yet repent not,</cell>
+                     <cell>Repent, yet reſt only on faith in Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>38. Would be Profeſſors at death,</cell>
+                     <cell>Beleivers at death,</cell>
+                     <cell>Live by faith in life and death,</cell>
+                  </row>
+                  <row>
+                     <cell>39. Glory in ſin,</cell>
+                     <cell>In ſinfull duties,</cell>
+                     <cell>In Chriſts Croſs,</cell>
+                  </row>
+                  <row>
+                     <cell>40. Cavell moſt at Profeſſion,</cell>
+                     <cell>At beleiving,</cell>
+                     <cell>Profeſs and beleive,</cell>
+                  </row>
+                  <row>
+                     <cell>41. Raiſe ſlanders of Profeſſors,</cell>
+                     <cell>Of Beleivers,</cell>
+                     <cell>Of none,</cell>
+                  </row>
+                  <row>
+                     <cell>42. Shun Profeſſors company,</cell>
+                     <cell>Beleivers fellowſhip,</cell>
+                     <cell>Imbrace Beleivers in love,</cell>
+                  </row>
+                  <row>
+                     <cell>43. Joyne with Atheiſts ra<g ref="char:EOLhyphen"/>ther then Profeſſors,</cell>
+                     <cell>With prophane then beleivers,</cell>
+                     <cell>Love their like,</cell>
+                  </row>
+                  <row>
+                     <cell>44. Watch for Profeſſors hal<g ref="char:EOLhyphen"/>ting,</cell>
+                     <cell>Beleivers tripping,</cell>
+                     <cell>Are grieved at both,</cell>
+                  </row>
+                  <row>
+                     <cell>45. Publiſh Profeſſors faults,</cell>
+                     <cell>Beleivers infirmities,</cell>
+                     <cell>Cover all in love,</cell>
+                  </row>
+                  <row>
+                     <cell>46. Mock Profeſſors,</cell>
+                     <cell>Gird at beleivers,</cell>
+                     <cell>Bear all for Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>47. Hate Reprovers,</cell>
+                     <cell>Bear rebukes hardly,</cell>
+                     <cell>Love ſuch above all,</cell>
+                  </row>
+                  <row>
+                     <cell>48. Are implacable to Profeſ<g ref="char:EOLhyphen"/>ſors,</cell>
+                     <cell>Are ſo to Beleivers,</cell>
+                     <cell>Are eaſily appeaſed,</cell>
+                  </row>
+                  <row>
+                     <cell>49. Take revenge on Profeſ<g ref="char:EOLhyphen"/>ſors,</cell>
+                     <cell>On Beleivers,</cell>
+                     <cell>Leave all to God,</cell>
+                  </row>
+                  <row>
+                     <cell>50. Deride the brother-hood,</cell>
+                     <cell>Hold fraternity in time of peace,</cell>
+                     <cell>Part not with it to death,</cell>
+                  </row>
+                  <row>
+                     <cell>51. Are terrified by troubles,</cell>
+                     <cell>Ever Caſt down,</cell>
+                     <cell>Glory in Tribulation,</cell>
+                  </row>
+                  <row>
+                     <cell>52. Love not tidings of death,</cell>
+                     <cell>Loath to dye,</cell>
+                     <cell>Long for Chriſts com<g ref="char:EOLhyphen"/>ing,</cell>
+                  </row>
+                  <row>
+                     <cell>53. Love the praiſe of men,</cell>
+                     <cell>Affect applauſe,</cell>
+                     <cell>Give all glory to God,</cell>
+                  </row>
+                  <row>
+                     <cell>54. Are all for the world,</cell>
+                     <cell>Are much intangled therewith,</cell>
+                     <cell>Are Heavenly minded,</cell>
+                  </row>
+                  <row>
+                     <cell>55. Are hard hearted,</cell>
+                     <cell>Cloſe fiſted,</cell>
+                     <cell>Liberall minded,</cell>
+                  </row>
+                  <row>
+                     <cell>56. Nouriſh baſe Luſts,</cell>
+                     <cell>Have their beloved ſins,</cell>
+                     <cell>Hate all ſin truly,</cell>
+                  </row>
+                  <row>
+                     <cell>57. Are ſad in Profeſſors com<g ref="char:EOLhyphen"/>pany,</cell>
+                     <cell>In Beleivers fellowſhip,</cell>
+                     <cell>Joy in ſuch Society,</cell>
+                  </row>
+                  <row>
+                     <cell>58. Nickname Profeſſors,</cell>
+                     <cell>Beleivers,</cell>
+                     <cell>Are nick-named of all,</cell>
+                  </row>
+                  <row>
+                     <cell>59. Are high-minded,</cell>
+                     <cell>Much exalted,</cell>
+                     <cell>Are meek and lowly,</cell>
+                  </row>
+                  <row>
+                     <cell>60. Love none heartily,</cell>
+                     <cell>Love in word,</cell>
+                     <cell>Love Believers til death,</cell>
+                  </row>
+                  <row>
+                     <cell>61. Requite good with evill,</cell>
+                     <cell>Evill with evill,</cell>
+                     <cell>Evill with good,</cell>
+                  </row>
+                  <row>
+                     <cell>62. Hate their Enemies,</cell>
+                     <cell>Love their friends,</cell>
+                     <cell>Love their Enemies,</cell>
+                  </row>
+                  <row>
+                     <cell>63. Are apt for Law-Suits,</cell>
+                     <cell>Will go to Law for lit<g ref="char:EOLhyphen"/>tle,</cell>
+                     <cell>Are hardly provoked,</cell>
+                  </row>
+                  <row>
+                     <cell>64. Glory in their Wealth,</cell>
+                     <cell>Are highly exalted thereby,</cell>
+                     <cell>Are content in all E<g ref="char:EOLhyphen"/>ſtates,</cell>
+                  </row>
+                  <row>
+                     <cell>65. Are all for mirth,</cell>
+                     <cell>Will be wantonly mer<g ref="char:EOLhyphen"/>ry,</cell>
+                     <cell>Rejoyce not in ſin at all,</cell>
+                  </row>
+                  <row>
+                     <cell>66. Will venture Soule for gain,</cell>
+                     <cell>Will hazard much that way,</cell>
+                     <cell>Love not filthy lucre,</cell>
+                  </row>
+                  <row>
+                     <cell>67. Are all for their belly,</cell>
+                     <cell>Great belly Gods,</cell>
+                     <cell>Hunger more for Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>68. Would have States put down all ſhew of godlineſs,</cell>
+                     <cell>All truth and power,</cell>
+                     <cell>To maintain both,</cell>
+                  </row>
+                  <row>
+                     <cell>69. Are careleſs of Salvation,</cell>
+                     <cell>Carefull only for that,</cell>
+                     <cell>To walk as the ſaved,</cell>
+                  </row>
+                  <row>
+                     <cell>70. By ſinning grow more ex<g ref="char:EOLhyphen"/>pert,</cell>
+                     <cell>More wary,</cell>
+                     <cell>More weakned to it,</cell>
+                  </row>
+                  <row>
+                     <cell>71. Keep others from Profeſ<g ref="char:EOLhyphen"/>ſion,</cell>
+                     <cell>Think it enough to pro<g ref="char:EOLhyphen"/>feſs themſelves,</cell>
+                     <cell>Labour the converſion of others,</cell>
+                  </row>
+                  <row>
+                     <cell>72. Are not Profeſſors, nor will be,</cell>
+                     <cell>Are not beleivers, yet ſeem to be,</cell>
+                     <cell>Are both,</cell>
+                  </row>
+                  <row>
+                     <cell>73. Heare but keep nothing,</cell>
+                     <cell>Heare and repeat,</cell>
+                     <cell>Heare, repeat, and re<g ref="char:EOLhyphen"/>tain,</cell>
+                  </row>
+                  <row>
+                     <cell>74. Are open enemys to Chriſts Croſs,</cell>
+                     <cell>Secret Adverſaries,</cell>
+                     <cell>Are hearty lovers of the Croſs of Chriſt,</cell>
+                  </row>
+                  <row>
+                     <cell>75. Know not Chriſt at all,</cell>
+                     <cell>Love him not,</cell>
+                     <cell>Love him unfainedly,</cell>
+                  </row>
+                  <row>
+                     <cell>76. Are Devils in black,</cell>
+                     <cell>Devils in white,</cell>
+                     <cell>Glorious Saints,</cell>
+                  </row>
+               </table>
+            </p>
+            <byline>By S. S.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
